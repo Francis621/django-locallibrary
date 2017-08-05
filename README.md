@@ -1,0 +1,2 @@
+# django-locallibrary
+django deploy
